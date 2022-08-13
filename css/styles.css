@@ -59,13 +59,13 @@ ul.menus li{
     margin: 0.4rem;
     padding: 0.5rem;    
     color: black;
-    /* transition: background-color 1s; */
+    transition: background-color 1s;
     border-radius: 20%;
 }
-/* ul.menus li:hover {
+ul.menus li:hover {
     
     background-color: #000;
-} */
+}
 ul.menus{ 
     margin: 1rem;
     justify-content: center;
